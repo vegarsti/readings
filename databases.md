@@ -6,6 +6,7 @@
 - [ ] 🎥 [**CMU 15-445 Intro to Database Systems**](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) (A Pavlo 2019)
 - [ ] 🎥 [**CMU 15-721 Advanced Database Systems**](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U) (A Pavlo 2019)
 - [ ] 📖 [**Designing Data-Intensive Applications**](https://dataintensive.net/) (M Kleppmann 2017)
+- [ ] 📖 [**Database Internals**](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347) (A Petrov 2019)
 - [ ] 📄 [**Readings in Database Systems**](http://www.redbook.io) (P Bailis, JM Hellerstein, M Stonebraker) _"The Red Book"_
 - [ ] 🎥 [**UC Berkeley CS186 Introduction to Database Systems**](https://archive.org/details/UCBerkeley_Course_Computer_Science_186#) (J Hellerstein 2012)
 - [ ] 📖 [Data and Reality](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215) (W Kent, S Hoberman 2012)
